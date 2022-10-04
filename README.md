@@ -1,4 +1,5 @@
 # [**_Hi, I am qing._**](https://twitch.tv/qing762)
+<img src = "ca9151fb21fe87fe7eb570c882665c3d3b18072a.jpg" alt = "pfp" width="928" height="310" />
 
 -----------------------------
 
@@ -21,4 +22,8 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like girls.
 
+## Github stats
+<img src = "https://github-readme-stats.vercel.app/api?username=qing762" />
 
+## Speedtest (for fun?)
+<img src = "https://www.speedtest.net/result/13759157978.png" />
