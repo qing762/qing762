@@ -14,7 +14,7 @@
 - 50K in Valorant ranked
 <img src = "50k.jpg" alt = "50k" />
 - Diamond rank on chinese version Honor of Kings
-<img src = "SVID_20221004_163143_1.gif" alt = "diamond" />,
+<img src = "SVID_20221004_163143_1.gif" alt = "diamond" />
 
 ## Introduction
 - 🔭 I’m currently working on nothing. Im just a regular student
