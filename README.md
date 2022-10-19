@@ -1,6 +1,8 @@
 # [**_Hi, I am qing._**](https://twitch.tv/qing762)
 <img src = "ca9151fb21fe87fe7eb570c882665c3d3b18072a.jpg" alt = "pfp" width="928" height="310" />
 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/635765555277725696?theme=dark&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/635765555277725696)
+
 -----------------------------
 
 ## Now playing
