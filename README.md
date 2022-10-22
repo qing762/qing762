@@ -30,7 +30,7 @@
 - 🔭 I’m currently working on nothing. Im just a regular student
 - 🌱 I’m currently learning Python
 - 🤔 I’m looking for help on how to chase girls easily
-- 📫 How to reach me: qing#1314(Discord) | TS qing#ruike (VALORANT) | qing762 (Twitch)
+- 📫 How to reach me: qing#1314(Discord) | TS qing#hui (VALORANT) | qing762 (Twitch)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like girls.
 
