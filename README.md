@@ -1,5 +1,4 @@
 # [**_Hi, I am qing. / qing762_**](https://twitch.tv/qing762)
-[<img src = "motivated-by-h (1).svg" >](https://discord.com/users/635765555277725696)
 [<img src = "made-by-qing762 (1).svg" >](https://discord.com/users/635765555277725696)
 
 <img src = "ca9151fb21fe87fe7eb570c882665c3d3b18072a.jpg" alt = "pfp" width="928" height="310" />
