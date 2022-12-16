@@ -35,7 +35,7 @@
 
 <h2 align="center">Check out my projects!</h2>
 <p align="center">
-  <a href="https://github.com/qing762/qingbot>"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=qing762&repo=qingbot&theme=merko&show_owner=true", alt = "qingBot Discord bot" /></a>
+  <a href="https://github.com/qing762/qingbot"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=qing762&repo=qingbot&theme=merko&show_owner=true", alt = "qingBot Discord bot" /></a>
   <a href="https://github.com/qing762/qing762"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=qing762&repo=qing762&theme=merko&show_owner=true", alt = "README for my Github page" /></a>
   <a href="https://github.com/qing762/honor-of-kings-json"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=qing762&repo=honor-of-kings-json&theme=merko&show_owner=true", alt = "Honor of Kings API" /></a>
   <a href="https://github.com/qing762/reed"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=qing762&repo=reed&theme=merko&show_owner=true", alt = "Reed Discord bot" /></a>
