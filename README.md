@@ -15,7 +15,7 @@
 
 <h4 align="center">Ronaldo buffff</h4>
 <p align="center">
-  <img src = "https://cdn.discordapp.com/banners/635765555277725696/d280f81f73456365e6247eb03d489077.png?size=512", alt = "Ronaldo bufffff" />
+  <a href = "https://www.manutd.com/en/players-and-staff/detail/cristiano-ronaldo"><img src = "https://cdn.discordapp.com/banners/635765555277725696/d280f81f73456365e6247eb03d489077.png?size=512", alt = "Ronaldo bufffff" /></a>
 </p>
 
 
@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="https://github.com/qing762"><img src = "https://github-readme-stats.vercel.app/api?username=qing762&count_private=true&show_icons=true&theme=dark&line_height=28.8", alt = "Github stats"></a>
-  <a href="https://github.com/qing762"><img src = "https://github-readme-stats.vercel.app/api/wakatime?username=qing762&layout=compact&theme=dark", alt = "Wakatime stats"></a>
+  <a href="https://wakatime.com/@qing762"><img src = "https://github-readme-stats.vercel.app/api/wakatime?username=qing762&layout=compact&theme=dark", alt = "Wakatime stats"></a>
 </p>
   
 <p align="center">
@@ -60,7 +60,7 @@
   📫 How to reach me: <a href = "https://discordapp.com/users/635765555277725696">qing#1303 (Discord)</a> | <a href = "https://tracker.gg/valorant/profile/riot/TS%20qing%23hui/overview">TS qing#hui (VALORANT)</a> | <a href = "https://twitch.tv/qing762">qing762 (Twitch)</a>
 </h4>
 <h4 align="center">
-  😄 Pronouns: He/Him
+  😄 Pronouns: <a href = "https://pronouns.org/he-him">He/Him</a>
 </h4>
 <h4 align="center">
   ⚡ Fun fact: I hate light mode.
