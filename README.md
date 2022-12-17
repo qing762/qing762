@@ -13,7 +13,7 @@
   <a href="https://www.curesarcoma.org/technoblade-tribute"><img src = "in-memorable-of-technoblade.svg" ></a>
 </p>
 
-<h3 align="center">Ronaldo buffff</h3>
+<h4 align="center">Ronaldo buffff</h4>
 <p align="center">
   <img src = "https://cdn.discordapp.com/banners/635765555277725696/d280f81f73456365e6247eb03d489077.png?size=512", alt = "Ronaldo bufffff" />
 </p>
