@@ -21,16 +21,16 @@
 
 <h2 align="center">Github stats</h2>
 <p align="center">
-  <a href="https://github.com/qing762"><img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/username=qing762&layout=compact&theme=dark&ver=2", alt = "Github stats" /></a>
+    <a href="https://github.com/qing762"><img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=qing762&count_private=true&show_icons=true&theme=dark&line_height=28.8", alt = "Github stats"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/qing762"><img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/username=qing762&count_private=true&show_icons=true&theme=dark&line_height=28.8", alt = "Github stats"></a>
-  <a href="https://wakatime.com/@qing762"><img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=qing762&layout=compact&theme=dark", alt = "Wakatime stats"></a>
+  <a href="https://github.com/qing762"><img src = "https://streak-stats.demolab.com?user=qing762&theme=dark&date_format=M%20j%5B%2C%20Y%5D", alt = "Github streak" /></a>
+  <a href="https://github.com/qing762"><img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=qing762&layout=compact&theme=dark", alt = "Github stats" /></a>
 </p>
   
 <p align="center">
-  <a href="https://github.com/qing762"><img src = "https://streak-stats.demolab.com?user=qing762&theme=dark&date_format=M%20j%5B%2C%20Y%5D", alt = "Github streak" /></a>
+  <a href="https://wakatime.com/@qing762"><img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=qing762&layout=compact&theme=dark", alt = "Wakatime stats"></a>
 </p>
 
 <h2 align="center">Check out my projects!</h2>
