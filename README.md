@@ -21,12 +21,12 @@
 
 <h2 align="center">Github stats</h2>
 <p align="center">
-  <a href="https://github.com/qing762"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=qing762&layout=compact&theme=dark", alt = "Github stats" /></a>
+  <a href="https://github.com/qing762"><img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/username=qing762&layout=compact&theme=dark&ver=2", alt = "Github stats" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/qing762"><img src = "https://github-readme-stats.vercel.app/api?username=qing762&count_private=true&show_icons=true&theme=dark&line_height=28.8", alt = "Github stats"></a>
-  <a href="https://wakatime.com/@qing762"><img src = "https://github-readme-stats.vercel.app/api/wakatime?username=qing762&layout=compact&theme=dark", alt = "Wakatime stats"></a>
+  <a href="https://github.com/qing762"><img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/username=qing762&count_private=true&show_icons=true&theme=dark&line_height=28.8", alt = "Github stats"></a>
+  <a href="https://wakatime.com/@qing762"><img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=qing762&layout=compact&theme=dark", alt = "Wakatime stats"></a>
 </p>
   
 <p align="center">
@@ -35,12 +35,12 @@
 
 <h2 align="center">Check out my projects!</h2>
 <p align="center">
-  <a href="https://github.com/qing762/qingbot"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=qing762&repo=qingbot&theme=merko&show_owner=true", alt = "qingBot Discord bot" /></a>
-  <a href="https://github.com/qing762/qing762"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=qing762&repo=qing762&theme=merko&show_owner=true", alt = "README for my Github page" /></a>
-  <a href="https://github.com/qing762/honor-of-kings-json"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=qing762&repo=honor-of-kings-json&theme=merko&show_owner=true", alt = "Honor of Kings API" /></a>
-  <a href="https://github.com/qing762/reed"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=qing762&repo=reed&theme=merko&show_owner=true", alt = "Reed Discord bot" /></a>
-  <a href="https://github.com/qing762/rickroll"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=qing762&repo=rickroll&theme=merko&show_owner=true", alt = "qingBot Discord bot website" /></a>
-  <a href="https://github.com/qing762/reedbotwebsite"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=qing762&repo=reedbotwebsite&theme=merko&show_owner=true", alt = "Reed Discord bot website" /></a>
+  <a href="https://github.com/qing762/qingbot"><img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=qing762&repo=qingbot&theme=merko&show_owner=true", alt = "qingBot Discord bot" /></a>
+  <a href="https://github.com/qing762/qing762"><img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=qing762&repo=qing762&theme=merko&show_owner=true", alt = "README for my Github page" /></a>
+  <a href="https://github.com/qing762/honor-of-kings-json"><img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=qing762&repo=honor-of-kings-json&theme=merko&show_owner=true", alt = "Honor of Kings API" /></a>
+  <a href="https://github.com/qing762/reed"><img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=qing762&repo=reed&theme=merko&show_owner=true", alt = "Reed Discord bot" /></a>
+  <a href="https://github.com/qing762/rickroll"><img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=qing762&repo=rickroll&theme=merko&show_owner=true", alt = "qingBot Discord bot website" /></a>
+  <a href="https://github.com/qing762/reedbotwebsite"><img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=qing762&repo=reedbotwebsite&theme=merko&show_owner=true", alt = "Reed Discord bot website" /></a>
 </p>
 
 
