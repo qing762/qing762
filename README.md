@@ -32,6 +32,10 @@
 <p align="center">
   <a href="https://wakatime.com/@qing762"><img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=qing762&layout=compact&theme=dark", alt = "Wakatime stats"></a>
 </p>
+    
+<p align = "center">
+  <a href="https://github.com/qing762"><img src = "https://github-profile-trophy.vercel.app/?username=qing762&column=4&theme=onestar", alt = "Github Trophy"></a>
+    </p>
 
 <h2 align="center">Check out my projects!</h2>
 <p align="center">
