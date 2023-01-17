@@ -15,7 +15,7 @@
 
 <h4 align="center">Ronaldo buffff</h4>
 <p align="center">
-  <a href = "https://www.manutd.com/en/players-and-staff/detail/cristiano-ronaldo"><img src = "https://cdn.discordapp.com/banners/635765555277725696/d280f81f73456365e6247eb03d489077.png?size=512", alt = "Ronaldo bufffff" /></a>
+  <a href = "https://www.manutd.com/en/players-and-staff/detail/cristiano-ronaldo"><img src = "https://media.discordapp.net/attachments/1044866457210736660/1051517948738687056/image.png?width=831&height=664", alt = "Ronaldo bufffff" /></a>
 </p>
 
 
