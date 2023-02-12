@@ -2,7 +2,7 @@
 <a href="https://github.com/qing762"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Hi!+I+am+qing762.;Nice+to+meet+you!;Feel+free+to+check+out+my+projects!" alt="Typing SVG" /></a>
 </p>
 <h3 align="center">
-  Last updated: 16/12/2022
+  Last updated: 12/2/2023
 </h3>
 
 <p align="center">
