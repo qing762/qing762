@@ -39,11 +39,8 @@
 
 <h2 align="center">Check out my projects!</h2>
 <p align="center">
-  <a href="https://github.com/qing762/honor-of-kings-json"><img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=qing762&repo=honor-of-kings-json&theme=merko&show_owner=true", alt = "Honor of Kings API" /></a>
-    </p>
-<p align="center">
-   <a href="https://github.com/qing762/reed"><img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=qing762&repo=reed&theme=merko&show_owner=true", alt = "Reed bot" /></a>
   <a href="https://github.com/qing762/exitLag-auto-signup"><img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=qing762&repo=exitLag-auto-signup&theme=merko&show_owner=true", alt = "ExitLag auto signup" /></a>
+  <a href="https://github.com/qing762/honor-of-kings-json"><img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=qing762&repo=honor-of-kings-json&theme=merko&show_owner=true", alt = "Honor of Kings API" /></a>
   <a href="https://github.com/qing762/qingbot"><img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=qing762&repo=qingbot&theme=merko&show_owner=true", alt = "qingBot Discord bot" /></a>
   <a href="https://github.com/qing762/qing762"><img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=qing762&repo=qing762&theme=merko&show_owner=true", alt = "README for my Github page" /></a>
   <a href = "https://github.com/qing762/chatgpt-sponsor-blocker"><img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=qing762&repo=chatgpt-sponsor-blocker&theme=merko&show_owner=true", alt = "ChatGPT Sponsor Blocker" /></a>
