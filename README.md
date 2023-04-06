@@ -63,7 +63,7 @@
   🤔 I’m looking for help on how to chase girls easily
 </h4>
 <h4 align="center">
-  📫 How to reach me: <a href = "https://discordapp.com/users/635765555277725696">qing#7777 (Discord)</a> | <a href = "https://tracker.gg/valorant/profile/riot/TS%20qing%23hui/overview">曾经深情难舍#777
+  📫 How to reach me: <a href = "https://discordapp.com/users/635765555277725696">qing#7777 (Discord)</a> | <a href = "https://tracker.gg/valorant/profile/riot/TS%20qing%23hui/overview">TS qing#chae
  (VALORANT)</a> | <a href = "https://twitch.tv/qing762">qing762 (Twitch)</a>
 </h4>
 <h4 align="center">
@@ -88,8 +88,9 @@
 
 
 <h2 align="center">Game achievements</h2>
-<h4 align="center">50K in VALORANT ranked</h4>
+<h4 align="center">51K in VALORANT ranked</h4>
 <img src = "50k.jpg" alt = "50k" />
+<img src = "51k.png" alt = "51k" />
 
 <h4 align="center">Gold rank in Valorant ranked</h4>
 <p align="center">
