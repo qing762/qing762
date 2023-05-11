@@ -79,7 +79,7 @@
   <a href = "https://open.spotify.com/user/317vougvtdhlzeiyxymtu33cfe7i?si=f7958b0fc41048ab"><img src = "https://spotify-github-profile.vercel.app/api/view?uid=317vougvtdhlzeiyxymtu33cfe7i&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false", alt = "Spotify"></a>
 </p>
 <p align="center">
-  <a href="https://discordapp.com/users/635765555277725696"><img src = "https://lanyard-profile-readme.vercel.app/api/635765555277725696?theme=dark&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...", alt = "Discord"></a>
+  <a href="https://discordapp.com/users/635765555277725696"><img src = "https://lanyard.cnrad.dev/api/635765555277725696", alt = "Discord"></a>
 </p>
 <p align="center">
   <a href="https://osu.ppy.sh/users/30113272"><img src = "https://osu-sig.vercel.app/card?user=jibailanjiao&mode=std&lang=en&blur=6&round_avatar=true&animation=true&hue=2551", alt = "osu!"></a>
