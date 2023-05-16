@@ -53,8 +53,7 @@
   🤔 I’m looking for help on how to chase girls easily
 </h4>
 <h4 align="center">
-  📫 How to reach me: <a href = "https://discordapp.com/users/635765555277725696">qing#7777 (Discord)</a>
- (VALORANT)</a> | <a href = "https://twitch.tv/qing762">qing762 (Twitch)</a>
+  📫 How to reach me: <a href = "https://discordapp.com/users/635765555277725696">qing#7777 (Discord)</a> | <a href = "https://twitch.tv/qing762">qing762 (Twitch)</a>
 </h4>
 <h4 align="center">
   😄 Pronouns: <a href = "https://pronouns.org/he-him">He/Him</a>
