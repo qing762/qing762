@@ -50,9 +50,6 @@
   ❤️ Main language: Python!!!!!
 </h4>
 <h4 align="center">
-  🤔 I’m looking for help on how to chase girls easily
-</h4>
-<h4 align="center">
   📫 How to reach me: <a href = "https://discordapp.com/users/635765555277725696">chaeyo_0 (Discord)</a> | <a href = "https://twitch.tv/qing762">qing762 (Twitch)</a>
 </h4>
 <h4 align="center">
