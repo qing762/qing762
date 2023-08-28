@@ -87,5 +87,4 @@
 </p>                                        
 <p align="center">
   <a href="https://github.com/qing762"><img src = "made-by-qing762.svg" ></a>
-  <a href="https://www.curesarcoma.org/technoblade-tribute"><img src = "in-memorable-of-technoblade.svg" ></a>
 </p>
