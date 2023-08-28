@@ -37,6 +37,8 @@
   <a href="https://github.com/qing762/reed"><img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=qing762&repo=reed&theme=merko&show_owner=true", alt = "Reed Discord bot" /></a>
   <a href="https://github.com/qing762/rickroll"><img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=qing762&repo=rickroll&theme=merko&show_owner=true", alt = "qingBot Discord bot website" /></a>
   <a href="https://github.com/qing762/reedbotwebsite"><img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=qing762&repo=reedbotwebsite&theme=merko&show_owner=true", alt = "Reed Discord bot website" /></a>
+  <a href="https://github.com/qing762/lmgpttfy"><img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=qing762&repo=lmgpttfy&theme=merko&show_owner=true", alt = "LMGPTTFY" /></a>
+  <a href="https://github.com/qing762/rareringtone"><img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=qing762&repo=rareringtone&theme=merko&show_owner=true", alt = "Rare Ringtone (undone)" /></a>
 </p>
 
 
