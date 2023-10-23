@@ -70,18 +70,6 @@
   <a href="https://discordapp.com/users/635765555277725696"><img src = "https://lanyard.cnrad.dev/api/635765555277725696", alt = "Discord"></a>
 </p>
 
-
-<h2 align="center">Game achievements</h2>
-<h4 align="center">51K in VALORANT ranked</h4>
-<img src = "51k.png" alt = "51k" />
-<img src = "50k.jpg" alt = "50k" />
-
-<h4 align="center">Gold rank in Valorant ranked</h4>
-<p align="center">
-  <img src = "https://media.discordapp.net/attachments/1044866457210736660/1052594415635542026/image.png?width=831&height=664" alt = "valorant gold rank" />
-</p>
-
-
 <p align="center">
   <a href="https://github.com/qing762"><img src = "https://komarev.com/ghpvc/?username=qing762&style=for-the-badge&color=000000"
 </p>                                        
