@@ -30,15 +30,12 @@
 <h2 align="center">Check out my projects!</h2>
 <p align="center">
   <a href="https://github.com/qing762/exitLag-auto-signup"><img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=qing762&repo=exitLag-auto-signup&theme=merko&show_owner=true", alt = "ExitLag auto signup" /></a>
+  <a href = "https://github.com/qing762/chatgpt-sponsor-blocker"><img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=qing762&repo=chatgpt-sponsor-blocker&theme=merko&show_owner=true", alt = "ChatGPT Sponsor Blocker" /></a>
   <a href="https://github.com/qing762/honor-of-kings-json"><img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=qing762&repo=honor-of-kings-json&theme=merko&show_owner=true", alt = "Honor of Kings API" /></a>
   <a href="https://github.com/qing762/qingbot"><img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=qing762&repo=qingbot&theme=merko&show_owner=true", alt = "qingBot Discord bot" /></a>
   <a href="https://github.com/qing762/qing762"><img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=qing762&repo=qing762&theme=merko&show_owner=true", alt = "README for my Github page" /></a>
-  <a href = "https://github.com/qing762/chatgpt-sponsor-blocker"><img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=qing762&repo=chatgpt-sponsor-blocker&theme=merko&show_owner=true", alt = "ChatGPT Sponsor Blocker" /></a>
   <a href="https://github.com/qing762/reed"><img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=qing762&repo=reed&theme=merko&show_owner=true", alt = "Reed Discord bot" /></a>
-  <a href="https://github.com/qing762/rickroll"><img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=qing762&repo=rickroll&theme=merko&show_owner=true", alt = "qingBot Discord bot website" /></a>
-  <a href="https://github.com/qing762/reedbotwebsite"><img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=qing762&repo=reedbotwebsite&theme=merko&show_owner=true", alt = "Reed Discord bot website" /></a>
   <a href="https://github.com/qing762/lmgpttfy"><img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=qing762&repo=lmgpttfy&theme=merko&show_owner=true", alt = "LMGPTTFY" /></a>
-  <a href="https://github.com/qing762/rareringtone"><img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=qing762&repo=rareringtone&theme=merko&show_owner=true", alt = "Rare Ringtone (undone)" /></a>
 </p>
 
 
@@ -46,13 +43,13 @@
 <h2 align="center">Introduction</h2>
 
 <h4 align="center">
-  🔭 I’m currently working on nothing. Im just a regular student
+  🔭 I’m currently working on nothing. Im just a regular student.
 </h4>
 <h4 align="center">
   ❤️ Main language: Python!!!!!
 </h4>
 <h4 align="center">
-  📫 How to reach me: <a href = "https://discordapp.com/users/635765555277725696">qing762 (Discord)</a> | <a href = "https://twitch.tv/qing762">qing762 (Twitch)</a>
+  📫 How to reach me: <a href = "https://qing762.is-a.dev/discord">qing762 (Discord)</a> | <a href = "https://twitch.tv/qing762">qing762 (Twitch)</a>
 </h4>
 <h4 align="center">
   😄 Pronouns: <a href = "https://pronouns.org/he-him">He/Him</a>
