@@ -2,7 +2,7 @@
 <a href="https://github.com/qing762"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Hi!+I+am+qing762.;Nice+to+meet+you!;Feel+free+to+check+out+my+projects!" alt="Typing SVG" /></a>
 </p>
 <h3 align="center">
-  Last updated: 16/5/2023
+  Last updated: 28/9/2024
 </h3>
 
 
@@ -32,10 +32,10 @@
   <a href="https://github.com/qing762/exitLag-auto-signup"><img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=qing762&repo=exitLag-auto-signup&theme=merko&show_owner=true", alt = "ExitLag auto signup" /></a>
   <a href = "https://github.com/qing762/chatgpt-sponsor-blocker"><img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=qing762&repo=chatgpt-sponsor-blocker&theme=merko&show_owner=true", alt = "ChatGPT Sponsor Blocker" /></a>
   <a href="https://github.com/qing762/honor-of-kings-json"><img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=qing762&repo=honor-of-kings-json&theme=merko&show_owner=true", alt = "Honor of Kings API" /></a>
-  <a href="https://github.com/qing762/qingbot"><img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=qing762&repo=qingbot&theme=merko&show_owner=true", alt = "qingBot Discord bot" /></a>
-  <a href="https://github.com/qing762/qing762"><img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=qing762&repo=qing762&theme=merko&show_owner=true", alt = "README for my Github page" /></a>
-  <a href="https://github.com/qing762/reed"><img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=qing762&repo=reed&theme=merko&show_owner=true", alt = "Reed Discord bot" /></a>
-  <a href="https://github.com/qing762/lmgpttfy"><img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=qing762&repo=lmgpttfy&theme=merko&show_owner=true", alt = "LMGPTTFY" /></a>
+  <a href="https://github.com/qing762/twice-api"><img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=qing762&repo=twice-api&theme=merko&show_owner=true", alt = "TWICE API" /></a>
+  <a href="https://github.com/qing762/discord-lootboxes-opener"><img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=qing762&repo=discord-lootboxes-opener&theme=merko&show_owner=true", alt = "Discord Lootboxes opener" /></a>
+  <a href="https://github.com/qing762/paper-version-links"><img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=qing762&repo=paper-version-links&theme=merko&show_owner=true", alt = "PaperMC version links" /></a>
+  <a href="https://github.com/qing762/roblox-auto-signup"><img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=qing762&repo=roblox-auto-signup&theme=merko&show_owner=true", alt = "Roblox auto signup" /></a>
 </p>
 
 
@@ -43,13 +43,13 @@
 <h2 align="center">Introduction</h2>
 
 <h4 align="center">
-  🔭 I’m currently working on nothing. Im just a regular student.
+  🔭 I'm currently working on nothing. Im just a regular student.
 </h4>
 <h4 align="center">
-  ❤️ Main language: Python!!!!!
+  ❤️ Main languages: Python, HTML, Javascript
 </h4>
 <h4 align="center">
-  📫 How to reach me: <a href = "https://qing762.is-a.dev/discord">qing762 (Discord)</a> | <a href = "https://twitch.tv/qing762">qing762 (Twitch)</a>
+  📫 How to reach me: <a href = "https://qing762.is-a.dev/discord">qing762 (Discord)</a> | <a href = "https://twitch.tv/qing762">qing762 (Twitch)</a> | <a href = "https://youtube.com/@qing762">qing762 (YouTube)</a>
 </h4>
 <h4 align="center">
   😄 Pronouns: <a href = "https://pronouns.org/he-him">He/Him</a>
@@ -61,15 +61,6 @@
 
 <h2 align="center">Socials</h2>
 <p align="center">
-  <a href = "https://open.spotify.com/user/317vougvtdhlzeiyxymtu33cfe7i?si=f7958b0fc41048ab"><img src = "https://spotify-github-profile.vercel.app/api/view?uid=317vougvtdhlzeiyxymtu33cfe7i&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false", alt = "Spotify"></a>
-</p>
-<p align="center">
   <a href="https://discordapp.com/users/635765555277725696"><img src = "https://lanyard.cnrad.dev/api/635765555277725696", alt = "Discord"></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/qing762"><img src = "https://komarev.com/ghpvc/?username=qing762&style=for-the-badge&color=000000"
-</p>                                        
-<p align="center">
-  <a href="https://github.com/qing762"><img src = "made-by-qing762.svg" ></a>
-</p>
